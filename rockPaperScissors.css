@@ -8,8 +8,18 @@ body {
     user-select: none;
 }
 
+h1{
+    text-align: center;
+}
+
 * {
     font-family: Helvetica;
+}
+
+footer{
+    font-family: Helvetica;
+    text-align: center;
+    font-size: 1.55rem;
 }
 
 .container {
